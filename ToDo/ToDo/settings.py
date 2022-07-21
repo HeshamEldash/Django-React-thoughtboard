@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     # 'thoughtapp.apps.AppConfig',
-    'api.apps.ApiConfig',
+    # 'api.apps.ApiConfig',
     "corsheaders",
 ]
 
