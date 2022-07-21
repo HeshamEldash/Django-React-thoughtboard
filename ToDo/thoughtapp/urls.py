@@ -3,7 +3,7 @@ from django.urls import path
 from . import views
 
 
-app_name = 'App'
+app_name = 'thoughtapp'
 urlpatterns = [
     path('home', views.home, name='home'),
     path("register", views.register_user, name="register"),
